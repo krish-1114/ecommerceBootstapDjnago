@@ -1,1 +1,2 @@
 "# ecommerceBootstapDjnago" 
+config media

@@ -13,7 +13,6 @@ class AccountAdmin(UserAdmin):
         'is_active',
         'date_joined'
     )
-
     ordering = ('email',)
 
     filter_horizontal = ()
